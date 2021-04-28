@@ -6,7 +6,7 @@ This repository contains a list a Java micro-projects each of which has been imp
 
 ⭐️Food Delivery Application: </br>
 This Java application is the backend implementation of a food delivery system. It serves as an interface for restaurants to register their menus, collect orders, provide discounts to customers and customers to register themselves, avail discounts and order a variety of dishes from various restaurants registered on the platform. Hence this application serves as a bridge between the consumers and the business owners.It utilizes object-oriented programming and event-driven programming in Java. </br>
-Path to code: [AP_Assigment1.pdf](Assignment1/AP_Assignment1.pdf) </br>
+Path to code: `Assignment1/AP_Assignment1.pdf `
 Path to deliverables: </br>
 
 ⭐️Hospital Management System: </br>
