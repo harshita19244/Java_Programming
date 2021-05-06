@@ -2,7 +2,7 @@
  
 This repository is solely for future reference, doesn't aim to infringe. 
  
-This repository contains a list a Java micro-projects each of which has been implemented using object-oriented programming. These micro projects also utlize threads for concurrent program execution. The repository includes the following set of java micro programs:
+This repository contains a list a Java micro-projects each of which has been implemented using object-oriented programming. These micro projects also utlize threads for concurrent program execution. The repository includes the following set of java micro projects:
 
 ⭐️Food Delivery Application: </br>
 This Java application is the backend implementation of a food delivery system. It serves as an interface for restaurants to register their menus, collect orders, provide discounts to customers and customers to register themselves, avail discounts and order a variety of dishes from various restaurants registered on the platform. Hence this application serves as a bridge between the consumers and the business owners.It utilizes object-oriented programming and event-driven programming in Java. </br>
